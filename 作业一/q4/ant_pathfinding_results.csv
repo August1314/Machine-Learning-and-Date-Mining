@@ -1,0 +1,2 @@
+﻿Grid_Size,Success_Rate,Total_Simulations,Successful_Paths,Start_Point,End_Point,Center_Point,Max_Center_Visits
+7,0.25845,20000,5169,"(1,1)","(7,7)","(4,4)",2
